@@ -5,7 +5,10 @@ import "./App.css";
 // import ScrollTriggerLesson from "./lessons/ScrollTrigger";
 // import HorizontalScroll from "./lessons/HorizontalScroll";
 // import ElasticString from "./lessons/ElasticString";
-import CursorFollower from "./lessons/CursorFollower";
+// import CursorFollower from "./lessons/CursorFollower";
+// import TimelineLesson from "./lessons/Timeline";
+// import TextAnimations from "./lessons/TextAnimations";
+import ScrollingText from "./lessons/ScrollingText";
 
 function App() {
   return (
@@ -15,7 +18,10 @@ function App() {
       {/* <ScrollTriggerLesson /> */}
       {/* <HorizontalScroll /> */}
       {/* <ElasticString /> */}
-      <CursorFollower />
+      {/* <CursorFollower /> */}
+      {/* <TimelineLesson /> */}
+      {/* <TextAnimations /> */}
+      <ScrollingText />
     </>
   );
 }

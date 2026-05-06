@@ -8,7 +8,8 @@ import "./App.css";
 // import CursorFollower from "./lessons/CursorFollower";
 // import TimelineLesson from "./lessons/Timeline";
 // import TextAnimations from "./lessons/TextAnimations";
-import ScrollingText from "./lessons/ScrollingText";
+// import ScrollingText from "./lessons/ScrollingText";
+import MorphSVGs from "./lessons/MorphSVGs";
 
 function App() {
   return (
@@ -21,7 +22,8 @@ function App() {
       {/* <CursorFollower /> */}
       {/* <TimelineLesson /> */}
       {/* <TextAnimations /> */}
-      <ScrollingText />
+      {/* <ScrollingText /> */}
+      <MorphSVGs />
     </>
   );
 }
